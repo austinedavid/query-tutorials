@@ -1,10 +1,10 @@
-import Todolayout from "@/components/Todolayout";
+import ParallelLayout from "@/components/parallelLayout";
 import React from "react";
 
 const page = () => {
   return (
     <div>
-      <Todolayout />
+      <ParallelLayout />
     </div>
   );
 };
